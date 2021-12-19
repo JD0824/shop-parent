@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: shop-app
+server:
+  port: 8004
